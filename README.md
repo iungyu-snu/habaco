@@ -2,7 +2,7 @@
 
 
 Hi, my name is UGI. 
-I'm interested in deep learning and I'm interested in proteomics.
+I'm interested in deep learning and protein structure
 I would really appreciate it if you could take a look at my code and give me some feedback.
 
 
